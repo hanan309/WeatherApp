@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="api_key">73df4f72b0279f1745ed177ce1df1775</string>
+    <string name="base_url">http://api.openweathermap.org/data/2.5/weather</string>
+    <string name="admob_app_id">ca-app-pub-6586396850430917~7111928246</string>
+    <string name="admob_banner_id">ca-app-pub-6586396850430917/9476698712</string>
+    <string name="admob_interstitial_id">ca-app-pub-6586396850430917/3673707696</string>
+    <string name="admob_native_id">ca-app-pub-6586396850430917/3482136005</string>
+    <string name="admob_rewarded_id">ca-app-pub-6586396850430917/3673707696</string>
+    <string name="admob_open_app_id">ca-app-pub-6586396850430917/8901983646</string>
+
+</resources>
